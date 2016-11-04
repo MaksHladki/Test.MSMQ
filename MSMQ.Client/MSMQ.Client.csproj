@@ -54,7 +54,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MSMQ\MSMQ.Core.csproj">
+    <ProjectReference Include="..\MSMQ.Core\MSMQ.Core.csproj">
       <Project>{9fba0160-9664-4cc6-81c5-7b17eb45a7c0}</Project>
       <Name>MSMQ.Core</Name>
     </ProjectReference>
